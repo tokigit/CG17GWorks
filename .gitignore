@@ -45,4 +45,5 @@ sysinfo.txt #Unity3D Generated File On Crash Reports
 # ASE          #
 # ============ #
 
-/AmplifyShaderEditor
+AmplifyShaderEditor/
+AmplifyShaderEditor.meta
