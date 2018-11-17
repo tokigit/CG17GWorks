@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b2b5c536955f144c8a1f82ea6636623
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _matMetal: {instanceID: 0}
+  - _matToon: {instanceID: 0}
+  - _maskTex: {instanceID: 0}
+  - _diffuse: {instanceID: 0}
+  - _eyesTex: {instanceID: 0}
+  - _mouthTex: {instanceID: 0}
+  - _MatrixTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
