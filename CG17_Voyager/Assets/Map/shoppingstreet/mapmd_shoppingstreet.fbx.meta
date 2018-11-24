@@ -4,13 +4,13 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Shopping_street 1
+    100002: Shoppingstreet 1
     400000: //RootNode
-    400002: Shopping_street 1
+    400002: Shoppingstreet 1
     2100000: lambert2
-    2300000: Shopping_street 1
-    3300000: Shopping_street 1
-    4300000: Shopping_street
+    2300000: Shoppingstreet 1
+    3300000: Shoppingstreet 1
+    4300000: Shoppingstreet
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -19,9 +19,9 @@ ModelImporter:
     second: {fileID: 2100000, guid: 6101a1e736858b34fa0d125293a11d8f, type: 2}
   materials:
     importMaterials: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
