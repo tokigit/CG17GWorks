@@ -14799,6 +14799,60 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &1631628534
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -14.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -87.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7212994
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7212994
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7212994
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 43b5b5157c8164288835f1a91e2331f5, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &1730372231 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: e37801237a52bdb46b4380e87ffdaa03, type: 3}
