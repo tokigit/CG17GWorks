@@ -740,6 +740,10 @@ Prefab:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 91cf9ba209f0bef4f8fac6bc4b95ae40, type: 2}
+    - target: {fileID: 100000, guid: e37801237a52bdb46b4380e87ffdaa03, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e37801237a52bdb46b4380e87ffdaa03, type: 3}
   m_IsPrefabParent: 0
@@ -14762,13 +14766,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254334725}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -103.7}
+  m_LocalRotation: {x: -0, y: 0.11605893, z: -0, w: 0.9932424}
+  m_LocalPosition: {x: 0, y: 0, z: -105.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 13.329, z: 0}
 --- !u!114 &1254334731
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14799,6 +14803,56 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &1593106409
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08024388
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.93756
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99781495
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.066070504
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 172.423
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 2a65c3630d388479e950e1da55d17406, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 4754156151dbc4a76981d79bfa20c451, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &1730372231 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: e37801237a52bdb46b4380e87ffdaa03, type: 3}
