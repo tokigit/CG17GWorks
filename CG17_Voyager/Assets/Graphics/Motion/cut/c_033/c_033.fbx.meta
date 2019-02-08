@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: de222d71c086d4a7e9577bb1e2bf22f1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: camera
+    100004: camera_grp
+    100006: en_b_mouth02
+    100008: en_b_mouth03
+    100010: en_b_mouth04
+    100012: en_b_mouth05
+    100014: en_b_mouth06
+    100016: en_b_mouth07
+    100018: en_c_chin
+    100020: en_c_FacialMain
+    100022: en_c_head
+    100024: en_c_head 1
+    100026: en_c_head 2
+    100028: en_c_head 3
+    100030: en_c_skirt_01
+    100032: en_c_skirt_02
+    100034: en_l_arm
+    100036: en_l_arm 1
+    100038: en_l_arm 2
+    100040: en_l_back_under
+    100042: en_l_back_untena_02
+    100044: en_l_back_up
+    100046: en_l_eyebrows01
+    100048: en_l_eyebrows02
+    100050: en_l_eyebrows03
+    100052: en_l_eyebrows04
+    100054: en_l_finger_1_3
+    100056: en_l_finger_2_3
+    100058: en_l_finger_3_3
+    100060: en_l_finger_4_3
+    100062: en_l_finger_5_3
+    100064: en_l_hipsick
+    100066: en_l_jet
+    100068: en_l_legB
+    100070: en_l_legB 1
+    100072: en_l_legB 2
+    100074: en_l_legF
+    100076: en_l_legF 1
+    100078: en_l_legF 2
+    100080: en_l_nose
+    100082: en_l_OverCheek
+    100084: en_l_OverEye01
+    100086: en_l_OverEye02
+    100088: en_l_OverEye03
+    100090: en_l_OverEye04
+    100092: en_l_shouldar_parts
+    100094: en_l_toe
+    100096: en_l_UnderCheek
+    100098: en_l_UnderEye01
+    100100: en_l_UnderEye02
+    100102: en_l_UnderEye03
+    100104: en_l_UnderEye04
+    100106: en_l_wrist
+    100108: en_r_arm
+    100110: en_r_arm 1
+    100112: en_r_arm 2
+    100114: en_r_b_mouth01
+    100116: en_r_back_sora_03
+    100118: en_r_back_up
+    100120: en_r_eyebrows01
+    100122: en_r_eyebrows02
+    100124: en_r_eyebrows03
+    100126: en_r_eyebrows04
+    100128: en_r_finger_1_3
+    100130: en_r_finger_2_3
+    100132: en_r_finger_3_3
+    100134: en_r_finger_4_3
+    100136: en_r_finger_5_3
+    100138: en_r_hipsick
+    100140: en_r_jet
+    100142: en_r_legB
+    100144: en_r_legB 1
+    100146: en_r_legB 2
+    100148: en_r_legF
+    100150: en_r_legF 1
+    100152: en_r_legF 2
+    100154: en_r_nose
+    100156: en_r_OverCheek
+    100158: en_r_OverEye01
+    100160: en_r_OverEye02
+    100162: en_r_OverEye03
+    100164: en_r_OverEye04
+    100166: en_r_shouldar_parts
+    100168: en_r_toe
+    100170: en_r_UnderCheek
+    100172: en_r_UnderEye01
+    100174: en_r_UnderEye02
+    100176: en_r_UnderEye03
+    100178: en_r_UnderEye04
+    100180: en_r_wrist
+    100182: en_t_mouth01
+    100184: en_t_mouth02
+    100186: en_t_mouth03
+    100188: en_t_mouth04
+    100190: en_t_mouth05
+    100192: en_t_mouth06
+    100194: en_t_mouth07
+    100196: en_t_mouth08
+    100198: en_t_mouth09
+    100200: enemyRobot_grp
+    100202: enemyRobot_grp1
+    100204: enemyRobot_grp2
+    100206: mesh
+    100208: mesh 1
+    100210: mesh 2
+    100212: mesh 3
+    100214: mn_b_mouth01
+    100216: mn_b_mouth02
+    100218: mn_b_mouth03
+    100220: mn_b_mouth04
+    100222: mn_b_mouth05
+    100224: mn_b_mouth06
+    100226: mn_b_mouth07
+    100228: mn_c_back
+    100230: mn_c_chin
+    100232: mn_c_FacialMain
+    100234: mn_c_head
+    100236: mn_c_head 1
+    100238: mn_c_head 2
+    100240: mn_c_head 3
+    100242: mn_c_main
+    100244: mn_c_main 1
+    100246: mn_c_main 2
+    100248: mn_c_main 3
+    100250: mn_c_neck
+    100252: mn_c_skirt_01
+    100254: mn_c_skirt_02
+    100256: mn_c_spine01
+    100258: mn_c_spine01 1
+    100260: mn_c_spine01 2
+    100262: mn_c_spine01 3
+    100264: mn_c_spine02
+    100266: mn_c_spine02 1
+    100268: mn_c_spine02 2
+    100270: mn_c_spine_02
+    100272: mn_l_ankle
+    100274: mn_l_arm
+    100276: mn_l_arm 1
+    100278: mn_l_arm 2
+    100280: mn_l_back_antena_01
+    100282: mn_l_back_under
+    100284: mn_l_back_untena_02
+    100286: mn_l_back_up
+    100288: mn_l_collar
+    100290: mn_l_elbow
+    100292: mn_l_eyebrows01
+    100294: mn_l_eyebrows02
+    100296: mn_l_eyebrows03
+    100298: mn_l_eyebrows04
+    100300: mn_l_finger_1_1
+    100302: mn_l_finger_1_2
+    100304: mn_l_finger_1_3
+    100306: mn_l_finger_2_1
+    100308: mn_l_finger_2_2
+    100310: mn_l_finger_2_3
+    100312: mn_l_finger_3_1
+    100314: mn_l_finger_3_2
+    100316: mn_l_finger_3_3
+    100318: mn_l_finger_4_1
+    100320: mn_l_finger_4_2
+    100322: mn_l_finger_4_3
+    100324: mn_l_finger_5_1
+    100326: mn_l_finger_5_2
+    100328: mn_l_finger_5_3
+    100330: mn_l_hip
+    100332: mn_l_hipsick
+    100334: mn_l_jet
+    100336: mn_l_knee
+    100338: mn_l_legB
+    100340: mn_l_legB 1
+    100342: mn_l_legB 2
+    100344: mn_l_legF
+    100346: mn_l_legF 1
+    100348: mn_l_legF 2
+    100350: mn_l_nose
+    100352: mn_l_OverCheek
+    100354: mn_l_OverEye01
+    100356: mn_l_OverEye02
+    100358: mn_l_OverEye03
+    100360: mn_l_OverEye04
+    100362: mn_l_shouldar
+    100364: mn_l_shouldar_parts
+    100366: mn_l_toe
+    100368: mn_l_UnderCheek
+    100370: mn_l_UnderEye01
+    100372: mn_l_UnderEye02
+    100374: mn_l_UnderEye03
+    100376: mn_l_UnderEye04
+    100378: mn_l_wrist
+    100380: mn_r_ankle
+    100382: mn_r_arm
+    100384: mn_r_arm 1
+    100386: mn_r_arm 2
+    100388: mn_r_back_sora_01
+    100390: mn_r_back_sora_02
+    100392: mn_r_back_sora_03
+    100394: mn_r_back_up
+    100396: mn_r_collar
+    100398: mn_r_elbow
+    100400: mn_r_eyebrows01
+    100402: mn_r_eyebrows02
+    100404: mn_r_eyebrows03
+    100406: mn_r_eyebrows04
+    100408: mn_r_finger_1_1
+    100410: mn_r_finger_1_2
+    100412: mn_r_finger_1_3
+    100414: mn_r_finger_2_1
+    100416: mn_r_finger_2_2
+    100418: mn_r_finger_2_3
+    100420: mn_r_finger_3_1
+    100422: mn_r_finger_3_2
+    100424: mn_r_finger_3_3
+    100426: mn_r_finger_4_1
+    100428: mn_r_finger_4_2
+    100430: mn_r_finger_4_3
+    100432: mn_r_finger_5_1
+    100434: mn_r_finger_5_2
+    100436: mn_r_finger_5_3
+    100438: mn_r_hip
+    100440: mn_r_hipsick
+    100442: mn_r_jet
+    100444: mn_r_knee
+    100446: mn_r_legB
+    100448: mn_r_legB 1
+    100450: mn_r_legB 2
+    100452: mn_r_legF
+    100454: mn_r_legF 1
+    100456: mn_r_legF 2
+    100458: mn_r_nose
+    100460: mn_r_OverCheek
+    100462: mn_r_OverEye01
+    100464: mn_r_OverEye02
+    100466: mn_r_OverEye03
+    100468: mn_r_OverEye04
+    100470: mn_r_shouldar
+    100472: mn_r_shouldar_parts
+    100474: mn_r_toe
+    100476: mn_r_UnderCheek
+    100478: mn_r_UnderEye01
+    100480: mn_r_UnderEye02
+    100482: mn_r_UnderEye03
+    100484: mn_r_UnderEye04
+    100486: mn_r_wrist
+    100488: mn_t_mouth01
+    100490: mn_t_mouth02
+    100492: mn_t_mouth03
+    100494: mn_t_mouth04
+    100496: mn_t_mouth05
+    100498: mn_t_mouth06
+    100500: mn_t_mouth07
+    100502: mn_t_mouth08
+    100504: mn_t_mouth09
+    100506: move
+    100508: move 1
+    100510: move 2
+    100512: move 3
+    100514: on_l_legB
+    100516: on_l_legB 1
+    100518: on_l_legB 2
+    100520: on_l_legF
+    100522: on_l_legF 1
+    100524: on_l_legF 2
+    100526: on_r_legB
+    100528: on_r_legB 1
+    100530: on_r_legB 2
+    100532: on_r_legF
+    100534: on_r_legF 1
+    100536: on_r_legF 2
+    100538: voyager_grp
+    100540: ye_c_hair1_2
+    100542: ye_f_hair1_1
+    100544: ye_f_hair2_1
+    100546: ye_f_hair3_1
+    100548: ye_l_hair1_1
+    100550: ye_l_hair2_1
+    100552: ye_r_hair1_1
+    100554: ye_r_hair2_1
+    100556: yr_c_hair1_1
+    100558: yr_c_hair1_2
+    100560: yr_f_hair1_1
+    100562: yr_f_hair2_1
+    100564: yr_f_hair3_1
+    100566: yr_l_hair1_1
+    100568: yr_l_hair2_1
+    100570: yr_r_hair1_1
+    100572: yr_r_hair2_1
+    400000: //RootNode
+    400002: camera
+    400004: camera_grp
+    400006: en_b_mouth02
+    400008: en_b_mouth03
+    400010: en_b_mouth04
+    400012: en_b_mouth05
+    400014: en_b_mouth06
+    400016: en_b_mouth07
+    400018: en_c_chin
+    400020: en_c_FacialMain
+    400022: en_c_head
+    400024: en_c_head 1
+    400026: en_c_head 2
+    400028: en_c_head 3
+    400030: en_c_skirt_01
+    400032: en_c_skirt_02
+    400034: en_l_arm
+    400036: en_l_arm 1
+    400038: en_l_arm 2
+    400040: en_l_back_under
+    400042: en_l_back_untena_02
+    400044: en_l_back_up
+    400046: en_l_eyebrows01
+    400048: en_l_eyebrows02
+    400050: en_l_eyebrows03
+    400052: en_l_eyebrows04
+    400054: en_l_finger_1_3
+    400056: en_l_finger_2_3
+    400058: en_l_finger_3_3
+    400060: en_l_finger_4_3
+    400062: en_l_finger_5_3
+    400064: en_l_hipsick
+    400066: en_l_jet
+    400068: en_l_legB
+    400070: en_l_legB 1
+    400072: en_l_legB 2
+    400074: en_l_legF
+    400076: en_l_legF 1
+    400078: en_l_legF 2
+    400080: en_l_nose
+    400082: en_l_OverCheek
+    400084: en_l_OverEye01
+    400086: en_l_OverEye02
+    400088: en_l_OverEye03
+    400090: en_l_OverEye04
+    400092: en_l_shouldar_parts
+    400094: en_l_toe
+    400096: en_l_UnderCheek
+    400098: en_l_UnderEye01
+    400100: en_l_UnderEye02
+    400102: en_l_UnderEye03
+    400104: en_l_UnderEye04
+    400106: en_l_wrist
+    400108: en_r_arm
+    400110: en_r_arm 1
+    400112: en_r_arm 2
+    400114: en_r_b_mouth01
+    400116: en_r_back_sora_03
+    400118: en_r_back_up
+    400120: en_r_eyebrows01
+    400122: en_r_eyebrows02
+    400124: en_r_eyebrows03
+    400126: en_r_eyebrows04
+    400128: en_r_finger_1_3
+    400130: en_r_finger_2_3
+    400132: en_r_finger_3_3
+    400134: en_r_finger_4_3
+    400136: en_r_finger_5_3
+    400138: en_r_hipsick
+    400140: en_r_jet
+    400142: en_r_legB
+    400144: en_r_legB 1
+    400146: en_r_legB 2
+    400148: en_r_legF
+    400150: en_r_legF 1
+    400152: en_r_legF 2
+    400154: en_r_nose
+    400156: en_r_OverCheek
+    400158: en_r_OverEye01
+    400160: en_r_OverEye02
+    400162: en_r_OverEye03
+    400164: en_r_OverEye04
+    400166: en_r_shouldar_parts
+    400168: en_r_toe
+    400170: en_r_UnderCheek
+    400172: en_r_UnderEye01
+    400174: en_r_UnderEye02
+    400176: en_r_UnderEye03
+    400178: en_r_UnderEye04
+    400180: en_r_wrist
+    400182: en_t_mouth01
+    400184: en_t_mouth02
+    400186: en_t_mouth03
+    400188: en_t_mouth04
+    400190: en_t_mouth05
+    400192: en_t_mouth06
+    400194: en_t_mouth07
+    400196: en_t_mouth08
+    400198: en_t_mouth09
+    400200: enemyRobot_grp
+    400202: enemyRobot_grp1
+    400204: enemyRobot_grp2
+    400206: mesh
+    400208: mesh 1
+    400210: mesh 2
+    400212: mesh 3
+    400214: mn_b_mouth01
+    400216: mn_b_mouth02
+    400218: mn_b_mouth03
+    400220: mn_b_mouth04
+    400222: mn_b_mouth05
+    400224: mn_b_mouth06
+    400226: mn_b_mouth07
+    400228: mn_c_back
+    400230: mn_c_chin
+    400232: mn_c_FacialMain
+    400234: mn_c_head
+    400236: mn_c_head 1
+    400238: mn_c_head 2
+    400240: mn_c_head 3
+    400242: mn_c_main
+    400244: mn_c_main 1
+    400246: mn_c_main 2
+    400248: mn_c_main 3
+    400250: mn_c_neck
+    400252: mn_c_skirt_01
+    400254: mn_c_skirt_02
+    400256: mn_c_spine01
+    400258: mn_c_spine01 1
+    400260: mn_c_spine01 2
+    400262: mn_c_spine01 3
+    400264: mn_c_spine02
+    400266: mn_c_spine02 1
+    400268: mn_c_spine02 2
+    400270: mn_c_spine_02
+    400272: mn_l_ankle
+    400274: mn_l_arm
+    400276: mn_l_arm 1
+    400278: mn_l_arm 2
+    400280: mn_l_back_antena_01
+    400282: mn_l_back_under
+    400284: mn_l_back_untena_02
+    400286: mn_l_back_up
+    400288: mn_l_collar
+    400290: mn_l_elbow
+    400292: mn_l_eyebrows01
+    400294: mn_l_eyebrows02
+    400296: mn_l_eyebrows03
+    400298: mn_l_eyebrows04
+    400300: mn_l_finger_1_1
+    400302: mn_l_finger_1_2
+    400304: mn_l_finger_1_3
+    400306: mn_l_finger_2_1
+    400308: mn_l_finger_2_2
+    400310: mn_l_finger_2_3
+    400312: mn_l_finger_3_1
+    400314: mn_l_finger_3_2
+    400316: mn_l_finger_3_3
+    400318: mn_l_finger_4_1
+    400320: mn_l_finger_4_2
+    400322: mn_l_finger_4_3
+    400324: mn_l_finger_5_1
+    400326: mn_l_finger_5_2
+    400328: mn_l_finger_5_3
+    400330: mn_l_hip
+    400332: mn_l_hipsick
+    400334: mn_l_jet
+    400336: mn_l_knee
+    400338: mn_l_legB
+    400340: mn_l_legB 1
+    400342: mn_l_legB 2
+    400344: mn_l_legF
+    400346: mn_l_legF 1
+    400348: mn_l_legF 2
+    400350: mn_l_nose
+    400352: mn_l_OverCheek
+    400354: mn_l_OverEye01
+    400356: mn_l_OverEye02
+    400358: mn_l_OverEye03
+    400360: mn_l_OverEye04
+    400362: mn_l_shouldar
+    400364: mn_l_shouldar_parts
+    400366: mn_l_toe
+    400368: mn_l_UnderCheek
+    400370: mn_l_UnderEye01
+    400372: mn_l_UnderEye02
+    400374: mn_l_UnderEye03
+    400376: mn_l_UnderEye04
+    400378: mn_l_wrist
+    400380: mn_r_ankle
+    400382: mn_r_arm
+    400384: mn_r_arm 1
+    400386: mn_r_arm 2
+    400388: mn_r_back_sora_01
+    400390: mn_r_back_sora_02
+    400392: mn_r_back_sora_03
+    400394: mn_r_back_up
+    400396: mn_r_collar
+    400398: mn_r_elbow
+    400400: mn_r_eyebrows01
+    400402: mn_r_eyebrows02
+    400404: mn_r_eyebrows03
+    400406: mn_r_eyebrows04
+    400408: mn_r_finger_1_1
+    400410: mn_r_finger_1_2
+    400412: mn_r_finger_1_3
+    400414: mn_r_finger_2_1
+    400416: mn_r_finger_2_2
+    400418: mn_r_finger_2_3
+    400420: mn_r_finger_3_1
+    400422: mn_r_finger_3_2
+    400424: mn_r_finger_3_3
+    400426: mn_r_finger_4_1
+    400428: mn_r_finger_4_2
+    400430: mn_r_finger_4_3
+    400432: mn_r_finger_5_1
+    400434: mn_r_finger_5_2
+    400436: mn_r_finger_5_3
+    400438: mn_r_hip
+    400440: mn_r_hipsick
+    400442: mn_r_jet
+    400444: mn_r_knee
+    400446: mn_r_legB
+    400448: mn_r_legB 1
+    400450: mn_r_legB 2
+    400452: mn_r_legF
+    400454: mn_r_legF 1
+    400456: mn_r_legF 2
+    400458: mn_r_nose
+    400460: mn_r_OverCheek
+    400462: mn_r_OverEye01
+    400464: mn_r_OverEye02
+    400466: mn_r_OverEye03
+    400468: mn_r_OverEye04
+    400470: mn_r_shouldar
+    400472: mn_r_shouldar_parts
+    400474: mn_r_toe
+    400476: mn_r_UnderCheek
+    400478: mn_r_UnderEye01
+    400480: mn_r_UnderEye02
+    400482: mn_r_UnderEye03
+    400484: mn_r_UnderEye04
+    400486: mn_r_wrist
+    400488: mn_t_mouth01
+    400490: mn_t_mouth02
+    400492: mn_t_mouth03
+    400494: mn_t_mouth04
+    400496: mn_t_mouth05
+    400498: mn_t_mouth06
+    400500: mn_t_mouth07
+    400502: mn_t_mouth08
+    400504: mn_t_mouth09
+    400506: move
+    400508: move 1
+    400510: move 2
+    400512: move 3
+    400514: on_l_legB
+    400516: on_l_legB 1
+    400518: on_l_legB 2
+    400520: on_l_legF
+    400522: on_l_legF 1
+    400524: on_l_legF 2
+    400526: on_r_legB
+    400528: on_r_legB 1
+    400530: on_r_legB 2
+    400532: on_r_legF
+    400534: on_r_legF 1
+    400536: on_r_legF 2
+    400538: voyager_grp
+    400540: ye_c_hair1_2
+    400542: ye_f_hair1_1
+    400544: ye_f_hair2_1
+    400546: ye_f_hair3_1
+    400548: ye_l_hair1_1
+    400550: ye_l_hair2_1
+    400552: ye_r_hair1_1
+    400554: ye_r_hair2_1
+    400556: yr_c_hair1_1
+    400558: yr_c_hair1_2
+    400560: yr_f_hair1_1
+    400562: yr_f_hair2_1
+    400564: yr_f_hair3_1
+    400566: yr_l_hair1_1
+    400568: yr_l_hair2_1
+    400570: yr_r_hair1_1
+    400572: yr_r_hair2_1
+    2000000: camera
+    2100000: voyager_mat
+    2100002: voyagerEye_l_mat
+    2100004: voyagerEye_r_mat
+    2100006: blinn2
+    2100008: blinn3
+    2100010: blinn4
+    4300000: mesh
+    4300002: mesh
+    4300004: mesh
+    4300006: mesh
+    7400000: c_033
+    9500000: //RootNode
+    13700000: mesh
+    13700002: mesh 1
+    13700004: mesh 2
+    13700006: mesh 3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
