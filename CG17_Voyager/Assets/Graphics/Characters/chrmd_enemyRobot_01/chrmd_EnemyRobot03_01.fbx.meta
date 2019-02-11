@@ -4,63 +4,36 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: ene03A_en_c_head
-    100004: ene03A_en_l_arm
-    100006: ene03A_en_l_legB
-    100008: ene03A_en_l_legF
-    100010: ene03A_en_r_arm
-    100012: ene03A_en_r_legB
-    100014: ene03A_en_r_legF
-    100016: ene03A_mesh
-    100018: ene03A_mn_c_head
-    100020: ene03A_mn_c_main
-    100022: ene03A_mn_c_spine01
-    100024: ene03A_mn_c_spine02
-    100026: ene03A_mn_l_arm
-    100028: ene03A_mn_l_legB
-    100030: ene03A_mn_l_legF
-    100032: ene03A_mn_r_arm
-    100034: ene03A_mn_r_legB
-    100036: ene03A_mn_r_legF
-    100038: ene03A_move
-    100040: ene03A_on_l_legB
-    100042: ene03A_on_l_legF
-    100044: ene03A_on_r_legB
-    100046: ene03A_on_r_legF
+    100002: ene03A_mesh
+    100004: ene03A_mn_c_head
+    100006: ene03A_mn_c_main
+    100008: ene03A_mn_c_spine01
+    100010: ene03A_mn_c_spine02
+    100012: ene03A_mn_l_arm
+    100014: ene03A_mn_l_legB
+    100016: ene03A_mn_l_legF
+    100018: ene03A_mn_r_arm
+    100020: ene03A_mn_r_legB
+    100022: ene03A_mn_r_legF
+    100024: ene03A_move
     400000: //RootNode
-    400002: ene03A_en_c_head
-    400004: ene03A_en_l_arm
-    400006: ene03A_en_l_legB
-    400008: ene03A_en_l_legF
-    400010: ene03A_en_r_arm
-    400012: ene03A_en_r_legB
-    400014: ene03A_en_r_legF
-    400016: ene03A_mesh
-    400018: ene03A_mn_c_head
-    400020: ene03A_mn_c_main
-    400022: ene03A_mn_c_spine01
-    400024: ene03A_mn_c_spine02
-    400026: ene03A_mn_l_arm
-    400028: ene03A_mn_l_legB
-    400030: ene03A_mn_l_legF
-    400032: ene03A_mn_r_arm
-    400034: ene03A_mn_r_legB
-    400036: ene03A_mn_r_legF
-    400038: ene03A_move
-    400040: ene03A_on_l_legB
-    400042: ene03A_on_l_legF
-    400044: ene03A_on_r_legB
-    400046: ene03A_on_r_legF
+    400002: ene03A_mesh
+    400004: ene03A_mn_c_head
+    400006: ene03A_mn_c_main
+    400008: ene03A_mn_c_spine01
+    400010: ene03A_mn_c_spine02
+    400012: ene03A_mn_l_arm
+    400014: ene03A_mn_l_legB
+    400016: ene03A_mn_l_legF
+    400018: ene03A_mn_r_arm
+    400020: ene03A_mn_r_legB
+    400022: ene03A_mn_r_legF
+    400024: ene03A_move
     2100000: blinn2
     4300000: ene03A_mesh
     9500000: //RootNode
     13700000: ene03A_mesh
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn2
-    second: {fileID: 2100000, guid: c68bf4775d60a4dc09ed2fa55d4ad352, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

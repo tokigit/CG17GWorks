@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8204f85440fd84be6b483b35f916b3c5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: camera
+    100004: camera_grp
+    100006: eneC_en_c_head
+    100008: eneC_en_l_legB
+    100010: eneC_en_l_legF
+    100012: eneC_en_r_legB
+    100014: eneC_en_r_legF
+    100016: eneC_mesh
+    100018: eneC_mn_c_head
+    100020: eneC_mn_c_main
+    100022: eneC_mn_l_legB
+    100024: eneC_mn_l_legF
+    100026: eneC_mn_r_legB
+    100028: eneC_mn_r_legF
+    100030: eneC_move
+    100032: eneC_on_l_legB
+    100034: eneC_on_l_legF
+    100036: eneC_on_r_legB
+    100038: eneC_on_r_legF
+    100040: EnemyRobotChild_grp
+    100042: GachaBall_grp
+    100044: gb_mesh
+    100046: livingC045_grp
+    100048: lvg045_mesh
+    100050: vogM_mesh
+    100052: VoyagerModel_grp
+    400000: //RootNode
+    400002: camera
+    400004: camera_grp
+    400006: eneC_en_c_head
+    400008: eneC_en_l_legB
+    400010: eneC_en_l_legF
+    400012: eneC_en_r_legB
+    400014: eneC_en_r_legF
+    400016: eneC_mesh
+    400018: eneC_mn_c_head
+    400020: eneC_mn_c_main
+    400022: eneC_mn_l_legB
+    400024: eneC_mn_l_legF
+    400026: eneC_mn_r_legB
+    400028: eneC_mn_r_legF
+    400030: eneC_move
+    400032: eneC_on_l_legB
+    400034: eneC_on_l_legF
+    400036: eneC_on_r_legB
+    400038: eneC_on_r_legF
+    400040: EnemyRobotChild_grp
+    400042: GachaBall_grp
+    400044: gb_mesh
+    400046: livingC045_grp
+    400048: lvg045_mesh
+    400050: vogM_mesh
+    400052: VoyagerModel_grp
+    2000000: camera
+    2100000: blinn3
+    2100002: VoyagerModel_mat
+    2100004: GachaBall01_mat
+    2100006: GachaBall02_mat
+    2100008: wall02_mat
+    2100010: wall01_mat
+    2100012: floor_mat
+    2100014: lambert1
+    2100016: cover_mat
+    2100018: bookpages_mat
+    2100020: curtain_mat
+    2100022: window_frame_mat
+    2100024: box_mat
+    2300000: gb_mesh
+    2300002: lvg045_mesh
+    2300004: vogM_mesh
+    3300000: gb_mesh
+    3300002: lvg045_mesh
+    3300004: vogM_mesh
+    4300000: eneC_mesh
+    4300002: vogM_mesh
+    4300004: gb_mesh
+    4300006: lvg045_mesh
+    7400000: c_045
+    9500000: //RootNode
+    13700000: eneC_mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
