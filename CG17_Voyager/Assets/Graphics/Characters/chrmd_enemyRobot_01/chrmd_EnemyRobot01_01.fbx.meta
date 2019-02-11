@@ -1,66 +1,71 @@
 fileFormatVersion: 2
-guid: 12c6159cf4cda4d33a513d5fbf2fc57c
+guid: 1ca081e8cae34485896a7f9505a3b5a7
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: en_c_head
-    100004: en_l_arm
-    100006: en_l_legB
-    100008: en_l_legF
-    100010: en_r_arm
-    100012: en_r_legB
-    100014: en_r_legF
-    100016: mesh
-    100018: mn_c_head
-    100020: mn_c_main
-    100022: mn_c_spine01
-    100024: mn_c_spine02
-    100026: mn_l_arm
-    100028: mn_l_legB
-    100030: mn_l_legF
-    100032: mn_r_arm
-    100034: mn_r_legB
-    100036: mn_r_legF
-    100038: move
-    100040: on_l_legB
-    100042: on_l_legF
-    100044: on_r_legB
-    100046: on_r_legF
+    100002: ene01A_en_c_head
+    100004: ene01A_en_l_arm
+    100006: ene01A_en_l_legB
+    100008: ene01A_en_l_legF
+    100010: ene01A_en_r_arm
+    100012: ene01A_en_r_legB
+    100014: ene01A_en_r_legF
+    100016: ene01A_mesh
+    100018: ene01A_mn_c_head
+    100020: ene01A_mn_c_main
+    100022: ene01A_mn_c_spine01
+    100024: ene01A_mn_c_spine02
+    100026: ene01A_mn_l_arm
+    100028: ene01A_mn_l_legB
+    100030: ene01A_mn_l_legF
+    100032: ene01A_mn_r_arm
+    100034: ene01A_mn_r_legB
+    100036: ene01A_mn_r_legF
+    100038: ene01A_move
+    100040: ene01A_on_l_legB
+    100042: ene01A_on_l_legF
+    100044: ene01A_on_r_legB
+    100046: ene01A_on_r_legF
     400000: //RootNode
-    400002: en_c_head
-    400004: en_l_arm
-    400006: en_l_legB
-    400008: en_l_legF
-    400010: en_r_arm
-    400012: en_r_legB
-    400014: en_r_legF
-    400016: mesh
-    400018: mn_c_head
-    400020: mn_c_main
-    400022: mn_c_spine01
-    400024: mn_c_spine02
-    400026: mn_l_arm
-    400028: mn_l_legB
-    400030: mn_l_legF
-    400032: mn_r_arm
-    400034: mn_r_legB
-    400036: mn_r_legF
-    400038: move
-    400040: on_l_legB
-    400042: on_l_legF
-    400044: on_r_legB
-    400046: on_r_legF
+    400002: ene01A_en_c_head
+    400004: ene01A_en_l_arm
+    400006: ene01A_en_l_legB
+    400008: ene01A_en_l_legF
+    400010: ene01A_en_r_arm
+    400012: ene01A_en_r_legB
+    400014: ene01A_en_r_legF
+    400016: ene01A_mesh
+    400018: ene01A_mn_c_head
+    400020: ene01A_mn_c_main
+    400022: ene01A_mn_c_spine01
+    400024: ene01A_mn_c_spine02
+    400026: ene01A_mn_l_arm
+    400028: ene01A_mn_l_legB
+    400030: ene01A_mn_l_legF
+    400032: ene01A_mn_r_arm
+    400034: ene01A_mn_r_legB
+    400036: ene01A_mn_r_legF
+    400038: ene01A_move
+    400040: ene01A_on_l_legB
+    400042: ene01A_on_l_legF
+    400044: ene01A_on_r_legB
+    400046: ene01A_on_r_legF
     2100000: blinn2
-    4300000: mesh
+    4300000: ene01A_mesh
     9500000: //RootNode
-    13700000: mesh
-  externalObjects: {}
+    13700000: ene01A_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: c68bf4775d60a4dc09ed2fa55d4ad352, type: 2}
   materials:
     importMaterials: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
