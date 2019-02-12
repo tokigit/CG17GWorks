@@ -12,7 +12,17 @@ ModelImporter:
     2300000: mesh
     3300000: mesh
     4300000: mesh
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clouds_mat
+    second: {fileID: 2100000, guid: 3f6ed883c817349bc835c7d0347d815d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth_mat
+    second: {fileID: 2100000, guid: 7d4c65549300c4831ae4815cbc6fb1fa, type: 2}
   materials:
     importMaterials: 1
     materialName: 1

@@ -11,7 +11,12 @@ ModelImporter:
     2300000: rk_mesh
     3300000: rk_mesh
     4300000: rk_mesh
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_mat
+    second: {fileID: 2100000, guid: 52c7db64e7b67446aab4dcc76a5612b9, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
