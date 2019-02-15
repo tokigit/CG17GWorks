@@ -89,12 +89,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: europaEye_mat
-    second: {fileID: 2100000, guid: 52d1632ae0aa7fa47b6b22b67ef721d5, type: 2}
+    second: {fileID: 2100008, guid: 92719c5e8770e4e2bbecf4ed77991c5d, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: europa_mat
-    second: {fileID: 2100000, guid: 8810145ce884e4e41a122b1275a1c02e, type: 2}
+    second: {fileID: 2100006, guid: 917519eb601a8470c9cad8a2dcd4a22e, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
