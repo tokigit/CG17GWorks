@@ -4,51 +4,51 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: eneC_en_c_head
-    100004: eneC_en_l_legB
-    100006: eneC_en_l_legF
-    100008: eneC_en_r_legB
-    100010: eneC_en_r_legF
-    100012: eneC_mesh
-    100014: eneC_mn_c_head
-    100016: eneC_mn_c_main
-    100018: eneC_mn_l_legB
-    100020: eneC_mn_l_legF
-    100022: eneC_mn_r_legB
-    100024: eneC_mn_r_legF
-    100026: eneC_move
-    100028: eneC_on_l_legB
-    100030: eneC_on_l_legF
-    100032: eneC_on_r_legB
-    100034: eneC_on_r_legF
+    100002: en_c_head
+    100004: en_l_legB
+    100006: en_l_legF
+    100008: en_r_legB
+    100010: en_r_legF
+    100012: mesh
+    100014: mn_c_head
+    100016: mn_c_main
+    100018: mn_l_legB
+    100020: mn_l_legF
+    100022: mn_r_legB
+    100024: mn_r_legF
+    100026: move
+    100028: on_l_legB
+    100030: on_l_legF
+    100032: on_r_legB
+    100034: on_r_legF
     400000: //RootNode
-    400002: eneC_en_c_head
-    400004: eneC_en_l_legB
-    400006: eneC_en_l_legF
-    400008: eneC_en_r_legB
-    400010: eneC_en_r_legF
-    400012: eneC_mesh
-    400014: eneC_mn_c_head
-    400016: eneC_mn_c_main
-    400018: eneC_mn_l_legB
-    400020: eneC_mn_l_legF
-    400022: eneC_mn_r_legB
-    400024: eneC_mn_r_legF
-    400026: eneC_move
-    400028: eneC_on_l_legB
-    400030: eneC_on_l_legF
-    400032: eneC_on_r_legB
-    400034: eneC_on_r_legF
+    400002: en_c_head
+    400004: en_l_legB
+    400006: en_l_legF
+    400008: en_r_legB
+    400010: en_r_legF
+    400012: mesh
+    400014: mn_c_head
+    400016: mn_c_main
+    400018: mn_l_legB
+    400020: mn_l_legF
+    400022: mn_r_legB
+    400024: mn_r_legF
+    400026: move
+    400028: on_l_legB
+    400030: on_l_legF
+    400032: on_r_legB
+    400034: on_r_legF
     2100000: blinn2
-    4300000: eneC_mesh
+    4300000: mesh
     9500000: //RootNode
-    13700000: eneC_mesh
+    13700000: mesh
   externalObjects: {}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
