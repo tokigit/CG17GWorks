@@ -435,8 +435,7 @@ ModelImporter:
     400428: voyager_grp
     2000000: camera
     2100000: voyager_mat
-    2100002: voyagerEye_l_mat
-    2100004: voyagerEye_r_mat
+    2100002: voyagerEye_r_mat
     4300000: vog_mesh
     7400000: c_010
     9500000: //RootNode

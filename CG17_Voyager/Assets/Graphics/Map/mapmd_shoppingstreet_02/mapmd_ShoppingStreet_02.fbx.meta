@@ -7,7 +7,8 @@ ModelImporter:
     100002: shp_mesh
     400000: //RootNode
     400002: shp_mesh
-    2100000: ShoppingStreet_mat
+    2100000: sky_mat
+    2100002: ShoppingStreet_mat
     2300000: shp_mesh
     3300000: shp_mesh
     4300000: shp_mesh
@@ -17,6 +18,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: ShoppingStreet_mat
     second: {fileID: 2100000, guid: 6101a1e736858b34fa0d125293a11d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sky_mat
+    second: {fileID: 2100000, guid: 0c985f106b85041fcb017c4df601e9d7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
