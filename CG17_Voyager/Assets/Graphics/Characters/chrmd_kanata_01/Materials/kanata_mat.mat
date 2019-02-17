@@ -90,17 +90,17 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ShadowJitter: 0.032
+    - _ShadowJitter: 0.346
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
     - __dirty: 1
-    - _ambientAmount: 0.36
+    - _ambientAmount: 0.316
     - _mainTexVolume: 0
-    - _shadowLine: 0.162
+    - _shadowLine: 0.249
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _shadowColor: {r: 0.36133856, g: 0.3659157, b: 0.3773585, a: 1}
+    - _shadowColor: {r: 0.3679245, g: 0.29301566, b: 0.22387859, a: 1}
