@@ -67,7 +67,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a3ea38d790cd14c7491134cff8592a13, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Specular:
@@ -90,17 +90,17 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ShadowJitter: 0.49
+    - _ShadowJitter: 0.114
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
-    - _ambientAmount: 0.46
-    - _mainTexVolume: 0
-    - _shadowLine: 0
+    - _ambientAmount: 0.159
+    - _mainTexVolume: 0.068
+    - _shadowLine: 0.303
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _shadowColor: {r: 0.745105, g: 0.8266946, b: 0.9811321, a: 1}
+    - _shadowColor: {r: 0.7000712, g: 0.7573869, b: 0.8679245, a: 1}
