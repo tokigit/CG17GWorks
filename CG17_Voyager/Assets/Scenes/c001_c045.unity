@@ -38,7 +38,12 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.44854116, g: 0.4985906, b: 0.5756542, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.004082825, g: 0.00022334648, b: 0.000000057068053,
+    a: 1}
+>>>>>>> 4964796291970010dd24dff796b6711c33b00253
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -113,7 +118,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &173436481
+=======
+--- !u!1001 &1821408231
+>>>>>>> 4964796291970010dd24dff796b6711c33b00253
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -151,10 +160,13 @@ Prefab:
     - target: {fileID: 4068137631721702, guid: 2fab6969ab2a04735a9590073264dcbf, type: 2}
       propertyPath: m_RootOrder
       value: 0
+<<<<<<< HEAD
       objectReference: {fileID: 0}
     - target: {fileID: 1599087494380010, guid: 2fab6969ab2a04735a9590073264dcbf, type: 2}
       propertyPath: m_IsActive
       value: 1
+=======
+>>>>>>> 4964796291970010dd24dff796b6711c33b00253
       objectReference: {fileID: 0}
     - target: {fileID: 4131850694516328, guid: 2fab6969ab2a04735a9590073264dcbf, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1243,6 +1255,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2fab6969ab2a04735a9590073264dcbf, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
 --- !u!1 &1886318019
 GameObject:
   m_ObjectHideFlags: 0
@@ -1378,3 +1391,5 @@ Transform:
   m_Father: {fileID: 1946787875}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: -99.12499, y: -142.854, z: 776.367}
+=======
+>>>>>>> 4964796291970010dd24dff796b6711c33b00253
